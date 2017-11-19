@@ -6,4 +6,5 @@ Enhances portfolio with the following additions using Bootstrap:
 * Responsive images
 
 Completes Homework #2 in full-stack bootcamp
+
 Visible at https://njax422.github.io/bootstrap-portfolio/index.html
